@@ -1,1 +1,1 @@
-# wvffle-logo
+![wvffle-logo](./wvffle-logo.svg)
