@@ -1,1 +1,1 @@
-![wvffle-logo](./wvffle-logo.svg)
+![wvffle-logo](./logo-horizontal.svg)
